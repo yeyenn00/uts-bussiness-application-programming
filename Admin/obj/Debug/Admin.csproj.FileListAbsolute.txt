@@ -1,0 +1,9 @@
+C:\Users\Aldo Andreano\Desktop\03081180018_Hewitt\Admin\bin\Debug\Admin.exe.config
+C:\Users\Aldo Andreano\Desktop\03081180018_Hewitt\Admin\bin\Debug\Admin.exe
+C:\Users\Aldo Andreano\Desktop\03081180018_Hewitt\Admin\bin\Debug\Admin.pdb
+C:\Users\Aldo Andreano\Desktop\03081180018_Hewitt\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\Aldo Andreano\Desktop\03081180018_Hewitt\Admin\obj\Debug\Admin.Form1.resources
+C:\Users\Aldo Andreano\Desktop\03081180018_Hewitt\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\Aldo Andreano\Desktop\03081180018_Hewitt\Admin\obj\Debug\Admin.csproj.GenerateResource.Cache
+C:\Users\Aldo Andreano\Desktop\03081180018_Hewitt\Admin\obj\Debug\Admin.exe
+C:\Users\Aldo Andreano\Desktop\03081180018_Hewitt\Admin\obj\Debug\Admin.pdb
